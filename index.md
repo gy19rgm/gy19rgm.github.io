@@ -5,15 +5,13 @@ title: GEOG5990 Assessments
 
 This website was created to be an online portfolio of the **GEOG5990 Module**, which is a component of the UoL MSc GIS.
 
-More information about myself can be found here, while my wordpress site can be found at [Rosie Researches](https://rosieresearches.wordpress.com/).
+More information about myself can be found here, while my wordpress site can be found at <a href="https://rosieresearches.wordpress.com/" target="_blank"> Rosie Researches </a>
 
 
 ### Assessment 1
 
-
-
 * Assessment 1 (worth 30%) is an agent-based model
-* The agent-based model can be accessed from <a href="https://github.com/gy19rgm/GEOG5990Assessment1" target="_blank">gy19rgm's GitHub profile</a>, along with the relevant readme file, licensing and documentation.
+* The agent-based model can be accessed from <a href="https://github.com/gy19rgm/GEOG5990Assessment1" target="_blank"> gy19rgm's GitHub profile </a>, along with the relevant readme file, licensing and documentation.
 * In the model, sheep are herded by sheepdogs, within a 300 unit <sup>2</sup> environment
 * The quantity of animals is determined by the user using a slider. The values available are:
 
@@ -31,10 +29,3 @@ More information about myself can be found here, while my wordpress site can be 
 ### Assessment 2
 
 * More on this assessment will be available in due course...
-
-
-
-I can practice writing quotes:
-> I do not fear computers.
-> I fear a lack of them.
-> *~ Isaac Asimov*
