@@ -10,8 +10,10 @@ More information about myself can be found here, while my wordpress site can be 
 
 ### Assessment 1
 
+
+
 * Assessment 1 (worth 30%) is an agent-based model
-* The agent-based model can be accessed from [gy19rgm's GitHub profile](https://github.com/gy19rgm/GEOG5990Assessment1), along with the relevant readme file, licensing and documentation.
+* The agent-based model can be accessed from <a href="https://github.com/gy19rgm/GEOG5990Assessment1" target="_blank">gy19rgm's GitHub profile</a>, along with the relevant readme file, licensing and documentation.
 * In the model, sheep are herded by sheepdogs, within a 300 unit <sup>2</sup> environment
 * The quantity of animals is determined by the user using a slider. The values available are:
 
