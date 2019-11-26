@@ -15,9 +15,9 @@ More information about myself can be found here, while my wordpress site can be 
 * In the model, sheep are herded by sheepdogs, within a 300 unit <sup>2</sup> environment
 * The quantity of animals is determined by the user using a slider. The values available are:
 
-|Number of sheep|Number of dogs|
-|---|:---:|
-|Between 50 - 100|Between 5 - 10|
+| Number of sheep | Number of dogs |
+| --- | :---: |
+| Between 50 - 100 | Between 5 - 10 |
 
 * Sheep move in a random direction, eating grass and sharing their resources with close by sheep
 * If a sheep notices a dog, it moves in the opposite direction at a faster speed to normal
