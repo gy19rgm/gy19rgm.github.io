@@ -5,7 +5,7 @@ title: GEOG5990 Assessments
 
 This website was created to be an online portfolio of the **GEOG5990 Module**, which is a component of the UoL MSc GIS.
 
-More information about myself can be found here, while my wordpress site can be found at <a href="https://rosieresearches.wordpress.com/" target="_blank"> Rosie Researches </a>
+More information about myself can be found <a href="https://gy19rgm.github.io/profile" target="_blank"> here </a>, while my wordpress site can be found at <a href="https://rosieresearches.wordpress.com/" target="_blank"> Rosie Researches </a> .
 
 
 ### Assessment 1
