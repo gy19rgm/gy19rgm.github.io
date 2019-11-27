@@ -6,4 +6,7 @@ title: Personal Profile
 
 ![Myself](me1.jpg)
 
-Upon graduating from the University of Sheffield in 2019 I moved to Leeds to undertake the MSc GIS programme.
+Having grown up in the south of England I graduated from the University of Sheffield before moving to Leeds for an MSc in GIS.
+In addition, I also studied for one academic year at Turun Yliopisto
+
+My interest in GIS took off during my time at Turun Yliopisto, and was developed throughout my undergraduate disseration. It is my hope that my current MSc degree will be the perfect stepping stone to advancing my interests in GIS and to to a fufilling and interesting career upon graduation.
