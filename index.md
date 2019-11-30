@@ -1,5 +1,5 @@
 ---
-title: R Martin
+title: R Martin - Homepage
 ---
 
 This website was created to be an online portfolio of the **GEOG5990 Module**, which is a component of the UoL MSc GIS.

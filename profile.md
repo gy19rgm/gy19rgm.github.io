@@ -1,5 +1,5 @@
 ---
-title: Personal Profile
+title: R Martin - Personal Profile
 ---
 
 #### I'm a GIS MSc student student at the University of Leeds.
