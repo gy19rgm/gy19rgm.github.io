@@ -14,7 +14,7 @@ Assessment 1 brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/stud
 | :---: | :---: |
 | Between 50 - 100 | Between 5 - 10 |
 
-![GUI](gui1.png "Example of the GUI")
+![GUI](gui1.jgg "Example of the GUI")
 ##### Screen capture showing the GUI and a still from an example animation 
 
 ### Agent information
@@ -27,6 +27,7 @@ Assessment 1 brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/stud
 * If a dog notices a sheep it halves the distance between itself and the sheep - replicating a 'sprint' and 'stalk'  motion
 
 ![Sheep - Dunstanburgh Castle](sheep1.jpg)
-##### Sheep by Dunstanburgh Castle, England. ###### Source: Own photo
+##### Sheep by Dunstanburgh Castle, England.
+###### Source: Own photo
 
-[*Back to main page*](https://gy19rgm.github.io/)
+[*Back to homepage*](https://gy19rgm.github.io/)
