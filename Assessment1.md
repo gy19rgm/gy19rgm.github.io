@@ -14,7 +14,6 @@ Assessment brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/
 | :---: | :---: |
 | Between 50 - 100 | Between 5 - 10 |
 
-![GUI](gui1.jpg "Example of the GUI")
 ![GUI](gui.jpg "Example of the GUI")
 ##### Screen capture showing the GUI and a still from an example animation 
 
