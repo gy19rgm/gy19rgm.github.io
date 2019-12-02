@@ -14,6 +14,9 @@ title: R Martin - Assessment 1
 
 * The model continues until a. total number of iterations are reached or, b. all sheep's personal store reach a pre-determined capacity. 
 
+![Sheep - Dunstanburgh Castle](sheep1.jpg)
+###### Sheep by Dunstanburgh Castle, England
+
 #### Sheep:
 * Move in a random direction, eating grass and sharing their resources with close by sheep
 * If a sheep notices a dog, it moves in the opposite direction at a faster speed to normal
