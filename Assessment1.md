@@ -1,28 +1,32 @@
 ---
 title: R Martin - Assessment 1
 ---
+## Assessment 1 - Agent-based modelling
 
-## Assessment 1
+Assessment 1 brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/core-python/assessment1/index.html" target="_blank"> GEOG5990M Programming for Spatial Analysts: Core Skills (Python) website </a> .
 
-* Assessment 1 (worth 30%) is an online portfolio of an agent-based model. It can be accessed from <a href="https://github.com/gy19rgm/GEOG5990Assessment1" target="_blank"> *gy19rgm's GitHub profile* </a>, along with the relevant readme file, licensing and documentation.
-* Assessment 1 instructions are found on the University of Leeds <a href="https://www.geog.leeds.ac.uk/courses/computing/study/core-python/assessment1/index.html" target="_blank"> GEOG5990M Programming for Spatial Analysts: Core Skills (Python) website </a> .
-* In the model, sheep and sheepdogs interact within a field environment, eating, running and herding as they go. The model runs as an interactive animation in the form of a Graphical User Interface (GUI)) - this also allows the user to choose the quantity of sheep and sheepdogs to be used in the model. Neither sheep or sheepdogs can get leave the environment, both are penned in by the field 'fence'.
+### Model Code and Description
+* Assessment 1 (worth 30%) is an online portfolio of an agent-based model. The model code is stored in <a href="https://github.com/gy19rgm/GEOG5990Assessment1" target="_blank"> *GEOG5990 Assessment 1 repository* </a>, along with the relevant README file, licensing and documentation.
+* In the model, sheep and sheepdogs interact within a field environment, eating, sharing resources, running and herding as they go. The model runs as an interactive animation in the form of a Graphical User Interface (GUI)) - this also allows the user to choose the quantity of sheep and sheepdogs to be used in the model. Neither sheep or sheepdogs can leave the environment, both are penned in by the field 'fence'.
+* The model continues until a. total number of iterations are reached or, b. a sheep has eaten too much grass that it's personal store has reached a pre-determined capacity. 
 
 | Number of sheep | Number of dogs |
 | :---: | :---: |
 | Between 50 - 100 | Between 5 - 10 |
 
-* The model continues until a. total number of iterations are reached or, b. all sheep's personal store reach a pre-determined capacity. 
+![GUI](gui1.png "Example of the GUI")
+##### Screen capture showing the GUI and a still from an example animation 
 
-![Sheep - Dunstanburgh Castle](sheep1.jpg)
-###### Sheep by Dunstanburgh Castle, England
-
+### Agent information
 #### Sheep:
-* Move in a random direction, eating grass and sharing their resources with close by sheep
-* If a sheep notices a dog, it moves in the opposite direction at a faster speed to normal
+* Move in a random direction, eating grass and sharing their collected grass resources with neighbouring sheep
+* If a sheep notices a dog it moves in the opposite direction twice as fast as normal
 
 #### Sheepdogs:
 * Dogs move in a random direction at a faster speed to the sheep
 * If a dog notices a sheep it halves the distance between itself and the sheep - replicating a 'sprint' and 'stalk'  motion
+
+![Sheep - Dunstanburgh Castle](sheep1.jpg)
+##### Sheep by Dunstanburgh Castle, England. ###### Source: Own photo
 
 [*Back to main page*](https://gy19rgm.github.io/)
