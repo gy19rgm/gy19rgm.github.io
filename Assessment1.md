@@ -17,6 +17,7 @@ Assessment brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/
 ![GUI](gui.jpg "Example of the GUI")
 ##### Screen capture showing the GUI and a still from an example animation 
 
+
 ### Agent information
 #### Sheep:
 * Move in a random direction, eating grass and sharing their collected grass resources with neighbouring sheep
