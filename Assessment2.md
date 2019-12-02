@@ -3,7 +3,7 @@ title: R Martin - Assessment 2
 ---
 ## Assessment 2
 
-Assessment 2 brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/core-python/assessment2/index.html" target="_blank"> GEOG5990M Programming for Spatial Analysts website </a>.
+Assessment brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/core-python/assessment2/index.html" target="_blank"> GEOG5990M Programming for Spatial Analysts website </a>.
 
 More on this assessment will be available in due course...
 
