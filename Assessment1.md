@@ -14,7 +14,7 @@ Assessment brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/
 | :---: | :---: |
 | Between 50 - 100 | Between 5 - 10 |
 
-![GUI](gui.jpg "Example of the GUI")
+![GUI - R Martin](gui.jpg "Example of the GUI")
 ##### Screen capture showing the GUI and a still from an example animation 
 
 
@@ -27,7 +27,7 @@ Assessment brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/
 * Dogs move in a random direction at a faster speed to the sheep
 * If a dog notices a sheep it halves the distance between itself and the sheep - replicating a 'sprint' and 'stalk'  motion
 
-![Sheep - Dunstanburgh Castle](sheep1.jpg)
+![Sheep, Dunstanburgh Castle - R Martin](sheep1.jpg)
 ##### Sheep in front of Dunstanburgh Castle, England. Source: Own photo
 
 [*Back to homepage*](https://gy19rgm.github.io/) / [*Assessment 2*](https://gy19rgm.github.io/Assessment2)
