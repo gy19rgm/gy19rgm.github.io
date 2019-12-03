@@ -3,7 +3,7 @@ title: R Martin - Assessment 1
 ---
 ## Assessment 1 - Agent-based modelling
 
-Assessment brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/core-python/assessment1/index.html" target="_blank"> GEOG5990M Programming for Spatial Analysts website </a>.
+Assessment brief: <a href="https://www.geog.leeds.ac.uk/courses/computing/study/core-python/assessment1/index.html" target="_blank"> GEOG5990M Programming for Spatial Analysts website</a>.
 
 ### Model Code and Description
 * Assessment 1 (30%) is an online portfolio of an agent-based model. The model code is stored in <a href="https://github.com/gy19rgm/GEOG5990Assessment1" target="_blank"> *GEOG5990 Assessment 1 repository* </a>, along with relevant README, licensing and documentation files.
