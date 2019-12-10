@@ -1,8 +1,8 @@
 ---
 title: R Martin - Homepage
 ---
-![Ferry - R Martin](foli1.jpg "Pedestrian Ferry Föli, Finland - R Martin")
-##### Pedestrian Ferry - Föli, Finland. Source: Own photo
+![Ferry - R Martin](fori1.jpg "Pedestrian Ferry Föri, Finland - R Martin")
+##### Pedestrian Ferry - Föri, Finland. Source: Own photo
 
 
 ### Personal Introduction
